@@ -6,6 +6,23 @@
 	"mongoose" : "~3.8.0",
 	"body-parser" : "~1.4.2",
 	"method-override" : "~2.0.2"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-autoprefixer": "latest",
+    "grunt-browser-sync": "latest",
+    "grunt-combine-media-queries": "latest",
+    "grunt-concurrent": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-imagemin": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-devcode": "latest",
+    "grunt-sass": "latest",
+    "grunt-nodemon": "latest"
   }
 }
 

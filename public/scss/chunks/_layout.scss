@@ -1,0 +1,20 @@
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.container {
+  @include container($wrapper-width);
+}
+
+.inner-content, .inner-footer, .inner-header {
+  @include container($wrapper-width);
+  overflow: hidden;
+}
+
+.main {
+  overflow: hidden;
+}
+
+.article-footer {
+  overflow: hidden;
+}
